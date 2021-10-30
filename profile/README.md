@@ -14,3 +14,4 @@ Dacă doriți să ne sponsorizați, ne puteți contacta pe email `l1meteam.ftc@g
 - Website (soon)
 - Email [l1meteam.ftc@gmail.com](mailto://l1meteam.ftc@gmail.com)
 - Discord (`Roni SEM9S-QBRE#4672`, `devilExE#7821`)
+- YouTube [L1me Team](https://www.youtube.com/channel/UCX1HIzlTdLb8cbcDOJGA1lQ)
