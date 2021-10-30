@@ -11,7 +11,7 @@ If you wish to sponsor us, you can contact us on email `l1meteam.ftc@gmail.com` 
 Dacă doriți să ne sponsorizați, ne puteți contacta pe email `l1meteam.ftc@gmail.com` sau pe Discord la `Roni SEM9S-QBRE#4672` sau `devilExE#7821` pentru oportunități. Logo-ul / numele companiei voastre va fi afișat pe site (urmează în curând), pe această pagină și pe robot.
 
 ## Contact
-- Website (soon)
+- Website [GitHub Pages](https://ftc-l1meteam.github.io)
 - Email [l1meteam.ftc@gmail.com](mailto://l1meteam.ftc@gmail.com)
 - Discord (`Roni SEM9S-QBRE#4672`, `devilExE#7821`)
 - YouTube [L1me Team](https://www.youtube.com/channel/UCX1HIzlTdLb8cbcDOJGA1lQ)
